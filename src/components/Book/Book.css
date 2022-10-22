@@ -1,0 +1,11 @@
+.Book {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Book h2{
+    color: red;
+}
+
+.Book img{
+    width: 50%;
+}
